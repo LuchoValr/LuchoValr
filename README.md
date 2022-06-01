@@ -1,4 +1,6 @@
-### Hi there 👋
+### Luis Valera
+Economy student and Data science rookie :exclamation:
+
 
 <!--
 **LuchoValr/LuchoValr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
