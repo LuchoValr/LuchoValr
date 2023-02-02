@@ -1,5 +1,5 @@
 ### **Luis Valera**
-**Economy student and Data science rookie** :exclamation:
+**Economy student || Data Science || Econometrics** :exclamation:
 
 
 <!--
